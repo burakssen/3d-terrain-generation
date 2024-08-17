@@ -1,0 +1,25 @@
+vendor/raylib/raylib/CMakeFiles/raylib.dir/rshapes.c.o: \
+  /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rshapes.c \
+  /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/raylib.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/compat/stdarg.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/stdarg.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/stdarg.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/__stdarg_header_macro.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/__stdarg___gnuc_va_list.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/__stdarg_va_list.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/__stdarg_va_arg.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/__stdarg___va_copy.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/__stdarg_va_copy.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/stdbool.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/stdbool.h \
+  /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/config.h \
+  /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rlgl.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/compat/math.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/math.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/features.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/bits/alltypes.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/lib/clang/19/include/float.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/float.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/compat/stdlib.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/stdlib.h \
+  /home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/cache/sysroot/include/alloca.h

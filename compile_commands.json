@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/em++ -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/3dTerrainGeneration.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles/3dTerrainGeneration.dir/src/App.cpp.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/src/App.cpp",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/src/App.cpp",
+  "output": "CMakeFiles/3dTerrainGeneration.dir/src/App.cpp.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/em++ -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/3dTerrainGeneration.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles/3dTerrainGeneration.dir/src/Chunk.cpp.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/src/Chunk.cpp",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/src/Chunk.cpp",
+  "output": "CMakeFiles/3dTerrainGeneration.dir/src/Chunk.cpp.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/em++ -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/3dTerrainGeneration.dir/includes_CXX.rsp -std=gnu++17 -o CMakeFiles/3dTerrainGeneration.dir/src/main.cpp.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/src/main.cpp",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/src/main.cpp",
+  "output": "CMakeFiles/3dTerrainGeneration.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/raudio.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/raudio.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/raudio.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/raudio.c.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/rcore.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rcore.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rcore.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/rcore.c.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/rmodels.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rmodels.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rmodels.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/rmodels.c.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/rshapes.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rshapes.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rshapes.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/rshapes.c.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/rtext.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rtext.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rtext.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/rtext.c.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/rtextures.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rtextures.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/rtextures.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.o"
+},
+{
+  "directory": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/build/vendor/raylib/raylib",
+  "command": "/home/runner/work/_temp/ac5e96bd-31f7-4a48-94f4-36d0ff605bb4/emsdk-main/upstream/emscripten/emcc -DGRAPHICS_API_OPENGL_ES2 -DPLATFORM_WEB @CMakeFiles/raylib.dir/includes_C.rsp -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -o CMakeFiles/raylib.dir/utils.c.o -c /home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/utils.c",
+  "file": "/home/runner/work/3d-terrain-generation/3d-terrain-generation/vendor/raylib/src/utils.c",
+  "output": "vendor/raylib/raylib/CMakeFiles/raylib.dir/utils.c.o"
+}
+]
